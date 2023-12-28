@@ -1,13 +1,20 @@
 #!/usr/bin/python3
 
-# A python script to find the area of a triangle.
+# A python script to do arithmetical operations addition and division
 
-# Input the base and height from the user
-base = float(input("Enter the length of the base of the triangle: "))
-height = float(input("Enter the height of the triangle: "))
+# Addition 
+num1 = float(input("Enter the first number for addition: "))
+num2 = float(input("Enter the second number for addition: "))
+sum = num1 + num2
 
-# Calculate the area of the triagle
-area = 0.5 * base * height
+print(f"sum: {num1} + {num2} = {sum}")
 
-# Display the result
-print(f"The area of the triangle is: {area}")
+# Division
+num3 = float(input("Enter the dividend for division: "))
+num4 = float(input("Enter the divisor for division: "))
+if num4 == 0:
+    print("Error: Division by zero is not allowed.")
+else:
+    div_result = num3 / num4
+    print(f"Division: {num3} / {num4} = {div_result}")
+
