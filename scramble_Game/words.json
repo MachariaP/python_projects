@@ -1,0 +1,12 @@
+{
+  "technology_basics": ["computer", "keyboard", "mouse", "internet", "email", "website", "software", "hardware", "digital", "network", "online", "folder"],
+  "amazing_animals": ["tiger", "lion", "bear", "dog", "cat", "bird", "fish", "horse", "rabbit", "monkey", "panda", "koala", "zebra", "turtle", "eagle"],
+  "tasty_foods": ["apple", "banana", "orange", "grape", "bread", "cheese", "water", "juice", "milk", "salad", "soup", "cake", "cookie", "rice", "beans"],
+  "nature_wonders": ["tree", "flower", "river", "mountain", "ocean", "forest", "cloud", "sun", "moon", "star", "rain", "snow", "beach", "island", "sky"],
+  "around_the_home": ["table", "chair", "house", "door", "window", "light", "clock", "phone", "book", "radio", "mirror", "towel", "plate", "spoon", "fork"],
+  "fun_sports": ["ball", "game", "team", "play", "goal", "run", "jump", "swim", "cycle", "dance", "score", "field", "court", "race", "walk"],
+  "lovely_colors": ["red", "blue", "green", "yellow", "orange", "purple", "pink", "black", "white", "brown", "gray", "gold", "silver", "navy", "ivory"],
+  "common_actions": ["read", "write", "speak", "listen", "walk", "talk", "eat", "drink", "sleep", "play", "work", "help", "give", "take", "make"],
+  "describing_words": ["happy", "good", "nice", "kind", "warm", "cold", "easy", "hard", "big", "small", "fast", "slow", "bright", "dark", "calm"],
+  "world_places": ["city", "town", "park", "road", "world", "paris", "london", "rome", "tokyo", "cairo", "india", "china", "kenya", "brazil", "canada"]
+}
